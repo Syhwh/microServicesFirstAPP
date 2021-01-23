@@ -47,4 +47,4 @@ app.post('/events', (req, res)=>{
 })
 
 
-app.listen(4001, () => console.log('comments server running in port 4001'))
+app.listen(4001, () => console.log('comments service running in port 4001'))

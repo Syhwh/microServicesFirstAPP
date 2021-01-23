@@ -39,4 +39,4 @@ app.post('/events', (req, res) => {
 
 
 
-app.listen(4000, () => console.log('post server running in port 4000'))
+app.listen(4000, () => console.log('Post service running in port 4000'))
